@@ -1,0 +1,56 @@
+.profile-pic{
+    height: 100px;
+    width: 100px;
+    max-width: 100%;
+    border-radius: 50%;
+}
+
+a{
+    color: black;
+}
+
+.primaryColor{
+    background-color: #56B3F0;
+}
+
+.secundaryColor{
+    background-color: #2c3e50;
+}
+
+p{
+    font-family: Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: black !important;
+}
+
+.icons{
+    padding-left: 20px;
+    color: black;
+}
+
+.blueTitle{
+    text-decoration: underline;
+    text-underline-position: below;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #4376D9;
+}
+
+.whiteTitle{
+    color: white;
+}
+
+.pad{
+    padding-top: 40px;
+}
+
+.padbot{
+    padding-bottom: 40px;
+}
+
+.footer{
+    margin: 0px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #56B3F0;
+}
